@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D Studio mesh</FileType>
+		<Ext>3DS</Ext>
+		<Mime>application/x-3ds</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fileformats.archiveteam.org/wiki/3DS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>52</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2016</Year>
+			<Month>2</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>43</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D</Bytes>
+			<ASCII> M M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0002000A000000030000003D3D</Bytes>
+			<ASCII> . . . . . . . . . . . = =</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

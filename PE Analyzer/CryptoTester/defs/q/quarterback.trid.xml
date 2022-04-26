@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quarterback backup</FileType>
+		<Ext></Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem>Backup software for Amiga.</Rem>
+			<RefURL>http://www.amigafuture.de/asd.php?asd_id=652</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2016</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>14</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5162</Bytes>
+			<ASCII> Q b</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

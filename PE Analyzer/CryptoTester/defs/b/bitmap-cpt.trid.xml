@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel Photo Paint bitmap (new)</FileType>
+		<Ext>CPT</Ext>
+		<Mime>image/x-corel-cpt</Mime>
+		<ExtraInfo>
+			<Rem>At offset 3 version "7","8" or "9" is stored. Older use a TIFF like structure.</Rem>
+			<RefURL>http://fileformats.archiveteam.org/wiki/Corel_Photo-Paint_image</RefURL>
+		</ExtraInfo>
+		<User>Joerg Jenderek</User>
+		<E-Mail>joerg.jen.der.ek@gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>158</FileNum>
+		<Date>
+			<Year>1992</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>29</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.01</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>435054</Bytes>
+			<ASCII> C P T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>46494C45</Bytes>
+			<ASCII> F I L E</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000100</Bytes>
+			<Pos>44</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>50</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

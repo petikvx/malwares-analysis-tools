@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Samplitude Virtual Project (old ver)</FileType>
+		<Ext>VIP</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem>These files are from the Amiga period.</Rem>
+			<RefURL>https://en.wikipedia.org/wiki/MAGIX_Samplitude</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2016</Year>
+			<Month>8</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>42</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53454B44504C4159</Bytes>
+			<ASCII> S E K D P L A Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

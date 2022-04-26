@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fujifilm Raw image</FileType>
+		<Ext>RAF</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fileformats.archiveteam.org/wiki/Fujifilm_RAF</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2016</Year>
+			<Month>12</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>34</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46554A4946494C4D4343442D52415720</Bytes>
+			<ASCII> F U J I F I L M C C D - R A W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Grandstream ring-tone</FileType>
+		<Ext>BIN</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://en.wikipedia.org/wiki/Grandstream_Networks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2016</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>11</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100000007</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72696E672E62696E</Bytes>
+			<ASCII> r i n g . b i n</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RING.BIN</String>
+	</GlobalStrings>
+</TrID>

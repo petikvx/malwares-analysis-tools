@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Extensible 3D vector graphics (XML)</FileType>
+		<Ext>X3D</Ext>
+		<Mime>model/x3d+xml</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fileformats.archiveteam.org/wiki/X3D</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>216</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2016</Year>
+			<Month>2</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>6</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>PROFILE</String>
+		<String>SCRIPT</String>
+		<String>SCENE</String>
+		<String>UTF-8</String>
+		<String>X3D P</String>
+		<String>HTTP</String>
+		<String>SPEC</String>
+		<String>TYPE</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

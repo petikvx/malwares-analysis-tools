@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electronic Arts ASF video (generic)</FileType>
+		<Ext>ASF/STR</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://wiki.multimedia.cx/index.php?title=Electronic_Arts_Formats_(2)#.ASF.2F.STR_Music_Files</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2016</Year>
+			<Month>9</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>52</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5343486C</Bytes>
+			<ASCII> S C H l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

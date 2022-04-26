@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Excellence! document</FileType>
+		<Ext>DOC</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem>Amiga wordprocessor by MSS.</Rem>
+			<RefURL>https://en.wikipedia.org/wiki/Excellence_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2016</Year>
+			<Month>11</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>27</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4654585450534554</Bytes>
+			<ASCII> F T X T P S E T</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FONS</String>
+		<String>FONT</String>
+		<String>FORM</String>
+		<String>PINF</String>
+		<String>RULE</String>
+		<String>STYL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MultiMedia Movie format video</FileType>
+		<Ext>MMM</Ext>
+		<Mime>application/octet-stream</Mime>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<Date>
+			<Year>2016</Year>
+			<Month>10</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>39</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v2.02</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>524D4D5043465443</Bytes>
+			<ASCII> R M M P C F T C</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>
